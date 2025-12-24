@@ -1,0 +1,22 @@
+/
+├─ home
+├─ about
+│   ├─ mission
+│   └─ constitution
+├─ executive-committee
+├─ wings
+│   ├─ physics
+│   ├─ chemistry
+│   ├─ biology
+│   └─ ict
+├─ events
+│   ├─ upcoming
+│   └─ past
+├─ projects
+├─ achievements
+├─ gallery
+├─ resources
+├─ blog
+├─ membership
+├─ notices
+└─ contact
